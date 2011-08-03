@@ -7,5 +7,5 @@ This Project was initially created October 30, 2005. Last updated March 2006.
 Screen Shots
 ------------
 
-.. image:: https://github.com/dabear/DaDebStaller/blob/master/screenshotdadebstaller.png
+.. image:: https://github.com/dabear/DaDebStaller/raw/master/screenshotdadebstaller.png
 
